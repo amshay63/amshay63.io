@@ -28,7 +28,7 @@ public class TextProcessing {
 	public static void main(String[] args) throws IOException {
 
 		/**Initialize File and Scanner in File**/
-		File myFile = new File("wonderLand.txt");
+		File myFile = new File("joker.txt");
 		Scanner read = new Scanner(myFile);
 		String word = "";
 		
