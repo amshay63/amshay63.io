@@ -1,5 +1,5 @@
-[
-  {
+[  
+{
     "userId": 1,
     "id": 1,
     "title": "A",
@@ -16,5 +16,5 @@
     "id": 3,
     "title": "C",
     "completed": false
-  },
+  }
 ]
